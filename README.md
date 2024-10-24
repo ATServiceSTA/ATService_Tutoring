@@ -15,16 +15,6 @@ This is a simple one-page website to advertise math tutoring services. The websi
 - Interactive animations powered by AOS (Animate on Scroll).
 - Easily customizable via HTML and CSS.
 
-## How to Use
-1. Clone or download this repository.
-2. Make any necessary changes in the HTML, CSS, or JavaScript files.
-3. Upload the project to **GitHub Pages** or **Netlify** to host it online.
-
-## Deploying to GitHub Pages
-1. Go to your repository’s **Settings** > **Pages**.
-2. Select the `main` branch as the source and click **Save**.
-3. Your site will be live at: `https://your-username.github.io/repository-name/`.
-
 ---
 
 ### **License**
